@@ -1,3 +1,4 @@
 # Simple zombie game
-Computer Science PWS Project\n
+Computer Science PWS Project
+
 Should be run on a webserver
