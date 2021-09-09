@@ -1,4 +1,8 @@
 # Simple zombie game
-High school Computer Science PWS Project
+This is my high school Computer Science PWS endproject.
+It's a simple 2D shooter based on the game mechanics of Call of Duty zombies.
 
-Should be run on a webserver
+Should be run on a server!
+
+![alt-text](https://i.ibb.co/n6Cr7J8/Screenshot-4.png "Gameplay image")
+*Screenshot of gameplay*
