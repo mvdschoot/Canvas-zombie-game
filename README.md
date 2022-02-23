@@ -1,6 +1,6 @@
 # Simple zombie game
 This is my high school Computer Science PWS endproject.
-It's a simple 2D shooter based on the game mechanics of Call of Duty zombies. Final grade 9,0.
+It's a simple 2D shooter based on the game mechanics of Call of Duty zombies. Final grade 9,2.
 
 Should be run on a server!
 
